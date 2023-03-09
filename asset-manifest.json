@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/interactive-comment-section/static/js/main.b4526966.js",
+    "index.html": "/interactive-comment-section/index.html",
+    "main.b4526966.js.map": "/interactive-comment-section/static/js/main.b4526966.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b4526966.js"
+  ]
+}
