@@ -13,11 +13,17 @@ const App = () => {
         console.log(error)
       }
     };
-    fetchData();
+    if (localStorage.getItem('data-comments') === null) {
+      fetchData();
+      console.log(data)
+    }
+     // eslint-disable-next-line
   }, [])
+   // eslint-disable-next-line
   useEffect(() => {
-    if (data.length > 0){
-      localStorage.setItem('data-comments', data)
+     // eslint-disable-next-line
+    if (data.length != 0){
+      localStorage.setItem('data-comments', JSON.stringify(data))
     }
   }, [data])
 

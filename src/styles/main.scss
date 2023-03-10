@@ -184,3 +184,29 @@ html {
     background-color: hsl(239, 57%, 85%);
   }
 }
+
+.delete__wrapper {
+  color: #ED6368;
+  fill: #ED6368;
+  transition: 0.2s linear;
+  &:hover {
+    color:  hsl(357, 100%, 86%);
+    fill:  hsl(357, 100%, 86%);
+  }
+}
+
+.edit__wrapper {
+  color: #5357B6;
+  fill: #5357B6;
+  transition: 0.2s linear;
+  margin-left: 20px;
+  &:hover {
+    color: hsl(239, 57%, 85%);
+    fill: hsl(239, 57%, 85%);
+  }
+}
+
+.title-rightside {
+  display: flex;
+  align-items: center;
+}
