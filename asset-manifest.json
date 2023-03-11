@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/interactive-comment-section/static/css/main.4149f81c.css",
-    "main.js": "/interactive-comment-section/static/js/main.a8de1259.js",
+    "main.js": "/interactive-comment-section/static/js/main.a31f8670.js",
     "static/js/762.b52f8426.chunk.js": "/interactive-comment-section/static/js/762.b52f8426.chunk.js",
     "static/js/502.0ae5d8de.chunk.js": "/interactive-comment-section/static/js/502.0ae5d8de.chunk.js",
     "static/js/736.ea3264dd.chunk.js": "/interactive-comment-section/static/js/736.ea3264dd.chunk.js",
@@ -26,10 +26,10 @@
     "static/media/icon-minus.svg": "/interactive-comment-section/static/media/icon-minus.4aa6933cb1575b3c54fa.svg",
     "static/media/icon-delete.svg": "/interactive-comment-section/static/media/icon-delete.86cedbf2e37529f9c8f1.svg",
     "main.4149f81c.css.map": "/interactive-comment-section/static/css/main.4149f81c.css.map",
-    "main.a8de1259.js.map": "/interactive-comment-section/static/js/main.a8de1259.js.map"
+    "main.a31f8670.js.map": "/interactive-comment-section/static/js/main.a31f8670.js.map"
   },
   "entrypoints": [
     "static/css/main.4149f81c.css",
-    "static/js/main.a8de1259.js"
+    "static/js/main.a31f8670.js"
   ]
 }
