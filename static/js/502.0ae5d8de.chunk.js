@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkinteractive_comment_section=self.webpackChunkinteractive_comment_section||[]).push([[502],{502:function(e,t,c){e.exports=c.p+"static/media/icon-edit.b0c7f9ebaec367bd3ae2.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkinteractive_comment_section=self.webpackChunkinteractive_comment_section||[]).push([[439],{439:function(e,t,c){e.exports=c.p+"static/media/image-ramsesmiron.62a67681169b8dcdc378.webp"}}]);

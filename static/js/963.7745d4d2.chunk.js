@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkinteractive_comment_section=self.webpackChunkinteractive_comment_section||[]).push([[963],{963:function(e,t,c){e.exports=c.p+"static/media/image-maxblagun.e423f15841d76f3a5361.webp"}}]);

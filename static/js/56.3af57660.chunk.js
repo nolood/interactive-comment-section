@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkinteractive_comment_section=self.webpackChunkinteractive_comment_section||[]).push([[56],{56:function(e,c,t){e.exports=t.p+"static/media/image-juliusomo.595ca29b9049f4c6ce66.webp"}}]);
