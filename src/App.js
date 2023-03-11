@@ -24,6 +24,7 @@ const App = () => {
      // eslint-disable-next-line
     if (data.length != 0){
       localStorage.setItem('data-comments', JSON.stringify(data))
+      window.location.reload()
     }
   }, [data])
 
